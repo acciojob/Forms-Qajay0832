@@ -5,7 +5,7 @@ const Form = () => {
     return (
         <Card>
             <h2>Section 1: Form Layout</h2>
-            <form id='info-form'>
+            <form id='form-link'>
                 <div>
                     <label htmlFor='full_name'>Full Name :</label>
                     <input type='text' name='full_name' id='full_name' required />
